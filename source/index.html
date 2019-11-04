@@ -2,9 +2,47 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Telegram</title>
+
+  <link rel="preload" href="fonts/bloggersans.woff2" as="font">
+  <link rel="preload" href="fonts/bloggersans-bold.woff2" as="font">
+
+  <link rel="stylesheet" href="css/style.min.css">
 </head>
 <body>
+  <div class="svg-template">
+    <include src="build/img/sprite.svg"></include>
+  </div>
+  <main>
+    <section class="log-in">
+      <img class="log-in__logo" src="img/logo.png" alt="Telegram logo">
+      <h1 class="log-in__header">Sign in to Telegram</h1>
+      <b class="log-in__note">Please confirm your country and enter your phone number.</b>
 
+      <form class="log-in-form" action="#" method="post" autocomplete="off">
+        <div class="log-in-form__input-wrap">
+          <input class="log-in-form__input log-in-form__input--country" type="text" name="country" placeholder="Country" aria-label="Type your country">
+        </div>
+        <input class="log-in-form__input log-in-form__input--phone" type="tel" name="phone" placeholder="Phone Number" aria-label="Type your phone number">
+
+        <div class="log-in-form__checkbox" role="checkbox" aria-checked="false" tabindex="0">
+          <span class="log-in-form__checkbox-indicator"></span>
+          <label class="log-in-form__label" for="logged-in">Keep me signed in</label>
+          <input class="log-in-form__checkbox visually-hidden" id="logged-in" type="checkbox" name="logged-in" tabindex="-1" checked>
+        </div>
+      </form>
+    </section>
+  </main>
+
+  <template id="countries">
+    <ul class="countries-list">
+      <li class="countries-list__item">
+        <span class="countries-list__flag">🇦🇫</span>
+        <p class="countries-list__name">Afghanistan</p>
+        <span class="countries-list__phone-code">+93</span>
+      </li>
+    </ul>
+  </template>
 </body>
 </html>
