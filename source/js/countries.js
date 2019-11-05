@@ -7,8 +7,8 @@
   const countriesList = countriesTemplate.content.querySelector('.countries-list').cloneNode(true);
 
   const generateCountries = () => {
-    for (let name in window.countries.names) {
-      countriesList.appendChild(window.country.createBlock(window.countries.names[name]));
+    for (let country of window.countries.names) {
+      countriesList.appendChild(window.country.createBlock(country.name, window.countries.codes[country.code], country.emoji));
     }
     countriesWrap.appendChild(countriesList);
   };
