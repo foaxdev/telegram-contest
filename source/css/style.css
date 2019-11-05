@@ -517,9 +517,12 @@ input[type="radio"].visually-hidden {
       -ms-flex-direction: column;
           flex-direction: column;
   max-height: 330px;
+  width: 100%;
+  padding: 15px 15px 0 15px;
   background-color: #ffffff;
   border-radius: 7px;
-  border: 1px solid #969595;
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+          box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
   overflow-y: scroll; }
   .countries-list--show {
     display: -webkit-box;
@@ -529,4 +532,23 @@ input[type="radio"].visually-hidden {
 .countries-list__item {
   display: -webkit-box;
   display: -ms-flexbox;
-  display: flex; }
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 30px; }
+  .countries-list__item:last-child {
+    margin-bottom: 0; }
+
+.countries-list__flag {
+  margin-right: 30px;
+  font-size: 24px; }
+
+.countries-list__name {
+  margin: 0;
+  font-size: 16px; }
+
+.countries-list__phone-code {
+  margin-left: auto;
+  font-size: 16px;
+  color: #969595; }

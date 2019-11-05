@@ -106,103 +106,103 @@
     },
     {
       "code": "BA",
-      "unicode": "U+1F1E7 U+1F1E6",
+      "phone": "+387",
       "name": "Bosnia & Herzegovina",
       "emoji": "🇧🇦"
     },
     {
       "code": "BB",
-      "unicode": "U+1F1E7 U+1F1E7",
+      "phone": "+1246",
       "name": "Barbados",
       "emoji": "🇧🇧"
     },
     {
       "code": "BD",
-      "unicode": "U+1F1E7 U+1F1E9",
+      "phone": "+880",
       "name": "Bangladesh",
       "emoji": "🇧🇩"
     },
     {
       "code": "BE",
-      "unicode": "U+1F1E7 U+1F1EA",
+      "phone": "+32",
       "name": "Belgium",
       "emoji": "🇧🇪"
     },
     {
       "code": "BF",
-      "unicode": "U+1F1E7 U+1F1EB",
+      "phone": "+226",
       "name": "Burkina Faso",
       "emoji": "🇧🇫"
     },
     {
       "code": "BG",
-      "unicode": "U+1F1E7 U+1F1EC",
+      "phone": "+359",
       "name": "Bulgaria",
       "emoji": "🇧🇬"
     },
     {
       "code": "BH",
-      "unicode": "U+1F1E7 U+1F1ED",
+      "phone": "+973",
       "name": "Bahrain",
       "emoji": "🇧🇭"
     },
     {
       "code": "BI",
-      "unicode": "U+1F1E7 U+1F1EE",
+      "phone": "+257",
       "name": "Burundi",
       "emoji": "🇧🇮"
     },
     {
       "code": "BJ",
-      "unicode": "U+1F1E7 U+1F1EF",
+      "phone": "+229",
       "name": "Benin",
       "emoji": "🇧🇯"
     },
     {
       "code": "BL",
-      "unicode": "U+1F1E7 U+1F1F1",
+      "phone": "+590",
       "name": "St. Barthélemy",
       "emoji": "🇧🇱"
     },
     {
       "code": "BM",
-      "unicode": "U+1F1E7 U+1F1F2",
+      "phone": "+1441",
       "name": "Bermuda",
       "emoji": "🇧🇲"
     },
     {
       "code": "BN",
-      "unicode": "U+1F1E7 U+1F1F3",
+      "phone": "+673",
       "name": "Brunei",
       "emoji": "🇧🇳"
     },
     {
       "code": "BO",
-      "unicode": "U+1F1E7 U+1F1F4",
+      "phone": "+591",
       "name": "Bolivia",
       "emoji": "🇧🇴"
     },
     {
       "code": "BQ",
-      "unicode": "U+1F1E7 U+1F1F6",
+      "phone": "+599",
       "name": "Caribbean Netherlands",
       "emoji": "🇧🇶"
     },
     {
       "code": "BR",
-      "unicode": "U+1F1E7 U+1F1F7",
+      "phone": "+55",
       "name": "Brazil",
       "emoji": "🇧🇷"
     },
     {
       "code": "BS",
-      "unicode": "U+1F1E7 U+1F1F8",
+      "phone": "+1242",
       "name": "Bahamas",
       "emoji": "🇧🇸"
     },
     {
       "code": "BT",
-      "unicode": "U+1F1E7 U+1F1F9",
+      "phone": "+975",
       "name": "Bhutan",
       "emoji": "🇧🇹"
     },
@@ -214,19 +214,19 @@
     },
     {
       "code": "BW",
-      "unicode": "U+1F1E7 U+1F1FC",
+      "phone": "+267",
       "name": "Botswana",
       "emoji": "🇧🇼"
     },
     {
       "code": "BY",
-      "unicode": "U+1F1E7 U+1F1FE",
+      "phone": "+375",
       "name": "Belarus",
       "emoji": "🇧🇾"
     },
     {
       "code": "BZ",
-      "unicode": "U+1F1E7 U+1F1FF",
+      "phone": "+501",
       "name": "Belize",
       "emoji": "🇧🇿"
     },
@@ -400,43 +400,43 @@
     },
     {
       "code": "EC",
-      "unicode": "U+1F1EA U+1F1E8",
+      "phone": "+593",
       "name": "Ecuador",
       "emoji": "🇪🇨"
     },
     {
       "code": "EE",
-      "unicode": "U+1F1EA U+1F1EA",
+      "phone": "+372",
       "name": "Estonia",
       "emoji": "🇪🇪"
     },
     {
       "code": "EG",
-      "unicode": "U+1F1EA U+1F1EC",
+      "phone": "+20",
       "name": "Egypt",
       "emoji": "🇪🇬"
     },
     {
       "code": "EH",
-      "unicode": "U+1F1EA U+1F1ED",
+      "phone": "+212",
       "name": "Western Sahara",
       "emoji": "🇪🇭"
     },
     {
       "code": "ER",
-      "unicode": "U+1F1EA U+1F1F7",
+      "phone": "+291",
       "name": "Eritrea",
       "emoji": "🇪🇷"
     },
     {
       "code": "ES",
-      "unicode": "U+1F1EA U+1F1F8",
+      "phone": "+34",
       "name": "Spain",
       "emoji": "🇪🇸"
     },
     {
       "code": "ET",
-      "unicode": "U+1F1EA U+1F1F9",
+      "phone": "+251",
       "name": "Ethiopia",
       "emoji": "🇪🇹"
     },
@@ -484,85 +484,85 @@
     },
     {
       "code": "GA",
-      "unicode": "U+1F1EC U+1F1E6",
+      "phone": "+241",
       "name": "Gabon",
       "emoji": "🇬🇦"
     },
     {
       "code": "GB",
-      "unicode": "U+1F1EC U+1F1E7",
+      "phone": "+44",
       "name": "United Kingdom",
       "emoji": "🇬🇧"
     },
     {
       "code": "GD",
-      "unicode": "U+1F1EC U+1F1E9",
+      "phone": "+1473",
       "name": "Grenada",
       "emoji": "🇬🇩"
     },
     {
       "code": "GE",
-      "unicode": "U+1F1EC U+1F1EA",
+      "phone": "+995",
       "name": "Georgia",
       "emoji": "🇬🇪"
     },
     {
       "code": "GF",
-      "unicode": "U+1F1EC U+1F1EB",
+      "phone": "+594",
       "name": "French Guiana",
       "emoji": "🇬🇫"
     },
     {
       "code": "GG",
-      "unicode": "U+1F1EC U+1F1EC",
+      "phone": "+441481",
       "name": "Guernsey",
       "emoji": "🇬🇬"
     },
     {
       "code": "GH",
-      "unicode": "U+1F1EC U+1F1ED",
+      "phone": "+233",
       "name": "Ghana",
       "emoji": "🇬🇭"
     },
     {
       "code": "GI",
-      "unicode": "U+1F1EC U+1F1EE",
+      "phone": "+350",
       "name": "Gibraltar",
       "emoji": "🇬🇮"
     },
     {
       "code": "GL",
-      "unicode": "U+1F1EC U+1F1F1",
+      "phone": "+299",
       "name": "Greenland",
       "emoji": "🇬🇱"
     },
     {
       "code": "GM",
-      "unicode": "U+1F1EC U+1F1F2",
+      "phone": "+220",
       "name": "Gambia",
       "emoji": "🇬🇲"
     },
     {
       "code": "GN",
-      "unicode": "U+1F1EC U+1F1F3",
+      "phone": "+224",
       "name": "Guinea",
       "emoji": "🇬🇳"
     },
     {
       "code": "GP",
-      "unicode": "U+1F1EC U+1F1F5",
+      "phone": "+590",
       "name": "Guadeloupe",
       "emoji": "🇬🇵"
     },
     {
       "code": "GQ",
-      "unicode": "U+1F1EC U+1F1F6",
+      "phone": "+240",
       "name": "Equatorial Guinea",
       "emoji": "🇬🇶"
     },
     {
       "code": "GR",
-      "unicode": "U+1F1EC U+1F1F7",
+      "phone": "+30",
       "name": "Greece",
       "emoji": "🇬🇷"
     },
@@ -574,31 +574,31 @@
     },
     {
       "code": "GT",
-      "unicode": "U+1F1EC U+1F1F9",
+      "phone": "+502",
       "name": "Guatemala",
       "emoji": "🇬🇹"
     },
     {
       "code": "GU",
-      "unicode": "U+1F1EC U+1F1FA",
+      "phone": "+1671",
       "name": "Guam",
       "emoji": "🇬🇺"
     },
     {
       "code": "GW",
-      "unicode": "U+1F1EC U+1F1FC",
+      "phone": "+245",
       "name": "Guinea-Bissau",
       "emoji": "🇬🇼"
     },
     {
       "code": "GY",
-      "unicode": "U+1F1EC U+1F1FE",
+      "phone": "+592",
       "name": "Guyana",
       "emoji": "🇬🇾"
     },
     {
       "code": "HK",
-      "unicode": "U+1F1ED U+1F1F0",
+      "phone": "+852",
       "name": "Hong Kong SAR China",
       "emoji": "🇭🇰"
     },
@@ -610,25 +610,25 @@
     },
     {
       "code": "HN",
-      "unicode": "U+1F1ED U+1F1F3",
+      "phone": "+504",
       "name": "Honduras",
       "emoji": "🇭🇳"
     },
     {
       "code": "HR",
-      "unicode": "U+1F1ED U+1F1F7",
+      "phone": "+385",
       "name": "Croatia",
       "emoji": "🇭🇷"
     },
     {
       "code": "HT",
-      "unicode": "U+1F1ED U+1F1F9",
+      "phone": "+509",
       "name": "Haiti",
       "emoji": "🇭🇹"
     },
     {
       "code": "HU",
-      "unicode": "U+1F1ED U+1F1FA",
+      "phone": "+36",
       "name": "Hungary",
       "emoji": "🇭🇺"
     },
@@ -676,7 +676,7 @@
     },
     {
       "code": "IQ",
-      "unicode": "U+1F1EE U+1F1F6",
+      "phone": "+964",
       "name": "Iraq",
       "emoji": "🇮🇶"
     },
@@ -694,31 +694,31 @@
     },
     {
       "code": "IT",
-      "unicode": "U+1F1EE U+1F1F9",
+      "phone": "+39",
       "name": "Italy",
       "emoji": "🇮🇹"
     },
     {
       "code": "JE",
-      "unicode": "U+1F1EF U+1F1EA",
+      "phone": "+441534",
       "name": "Jersey",
       "emoji": "🇯🇪"
     },
     {
       "code": "JM",
-      "unicode": "U+1F1EF U+1F1F2",
+      "phone": "+1876",
       "name": "Jamaica",
       "emoji": "🇯🇲"
     },
     {
       "code": "JO",
-      "unicode": "U+1F1EF U+1F1F4",
+      "phone": "+962",
       "name": "Jordan",
       "emoji": "🇯🇴"
     },
     {
       "code": "JP",
-      "unicode": "U+1F1EF U+1F1F5",
+      "phone": "+81",
       "name": "Japan",
       "emoji": "🇯🇵"
     },
@@ -856,37 +856,37 @@
     },
     {
       "code": "MA",
-      "unicode": "U+1F1F2 U+1F1E6",
+      "phone": "+212",
       "name": "Morocco",
       "emoji": "🇲🇦"
     },
     {
       "code": "MC",
-      "unicode": "U+1F1F2 U+1F1E8",
+      "phone": "+377",
       "name": "Monaco",
       "emoji": "🇲🇨"
     },
     {
       "code": "MD",
-      "unicode": "U+1F1F2 U+1F1E9",
+      "phone": "+373",
       "name": "Moldova",
       "emoji": "🇲🇩"
     },
     {
       "code": "ME",
-      "unicode": "U+1F1F2 U+1F1EA",
+      "phone": "+382",
       "name": "Montenegro",
       "emoji": "🇲🇪"
     },
     {
       "code": "MF",
-      "unicode": "U+1F1F2 U+1F1EB",
+      "phone": "+590",
       "name": "St. Martin",
       "emoji": "🇲🇫"
     },
     {
       "code": "MG",
-      "unicode": "U+1F1F2 U+1F1EC",
+      "phone": "+261",
       "name": "Madagascar",
       "emoji": "🇲🇬"
     },
@@ -1066,61 +1066,61 @@
     },
     {
       "code": "OM",
-      "unicode": "U+1F1F4 U+1F1F2",
+      "phone": "+968",
       "name": "Oman",
       "emoji": "🇴🇲"
     },
     {
       "code": "PA",
-      "unicode": "U+1F1F5 U+1F1E6",
+      "phone": "+507",
       "name": "Panama",
       "emoji": "🇵🇦"
     },
     {
       "code": "PE",
-      "unicode": "U+1F1F5 U+1F1EA",
+      "phone": "+51",
       "name": "Peru",
       "emoji": "🇵🇪"
     },
     {
       "code": "PF",
-      "unicode": "U+1F1F5 U+1F1EB",
+      "phone": "+689",
       "name": "French Polynesia",
       "emoji": "🇵🇫"
     },
     {
       "code": "PG",
-      "unicode": "U+1F1F5 U+1F1EC",
+      "phone": "+675",
       "name": "Papua New Guinea",
       "emoji": "🇵🇬"
     },
     {
       "code": "PH",
-      "unicode": "U+1F1F5 U+1F1ED",
+      "phone": "+63",
       "name": "Philippines",
       "emoji": "🇵🇭"
     },
     {
       "code": "PK",
-      "unicode": "U+1F1F5 U+1F1F0",
+      "phone": "+92",
       "name": "Pakistan",
       "emoji": "🇵🇰"
     },
     {
       "code": "PL",
-      "unicode": "U+1F1F5 U+1F1F1",
+      "phone": "+48",
       "name": "Poland",
       "emoji": "🇵🇱"
     },
     {
       "code": "PM",
-      "unicode": "U+1F1F5 U+1F1F2",
+      "phone": "+508",
       "name": "St. Pierre & Miquelon",
       "emoji": "🇵🇲"
     },
     {
       "code": "PN",
-      "unicode": "U+1F1F5 U+1F1F3",
+      "phone": "+870",
       "name": "Pitcairn Islands",
       "emoji": "🇵🇳"
     },
@@ -1132,25 +1132,25 @@
     },
     {
       "code": "PS",
-      "unicode": "U+1F1F5 U+1F1F8",
+      "phone": "+970",
       "name": "Palestinian Territories",
       "emoji": "🇵🇸"
     },
     {
       "code": "PT",
-      "unicode": "U+1F1F5 U+1F1F9",
+      "phone": "+351",
       "name": "Portugal",
       "emoji": "🇵🇹"
     },
     {
       "code": "PW",
-      "unicode": "U+1F1F5 U+1F1FC",
+      "phone": "+680",
       "name": "Palau",
       "emoji": "🇵🇼"
     },
     {
       "code": "PY",
-      "unicode": "U+1F1F5 U+1F1FE",
+      "phone": "+595",
       "name": "Paraguay",
       "emoji": "🇵🇾"
     },
@@ -1162,43 +1162,43 @@
     },
     {
       "code": "RE",
-      "unicode": "U+1F1F7 U+1F1EA",
+      "phone": "+262",
       "name": "Réunion",
       "emoji": "🇷🇪"
     },
     {
       "code": "RO",
-      "unicode": "U+1F1F7 U+1F1F4",
+      "phone": "+40",
       "name": "Romania",
       "emoji": "🇷🇴"
     },
     {
       "code": "RS",
-      "unicode": "U+1F1F7 U+1F1F8",
+      "phone": "+381",
       "name": "Serbia",
       "emoji": "🇷🇸"
     },
     {
       "code": "RU",
-      "unicode": "U+1F1F7 U+1F1FA",
+      "phone": "+7",
       "name": "Russia",
       "emoji": "🇷🇺"
     },
     {
       "code": "RW",
-      "unicode": "U+1F1F7 U+1F1FC",
+      "phone": "+250",
       "name": "Rwanda",
       "emoji": "🇷🇼"
     },
     {
       "code": "SA",
-      "unicode": "U+1F1F8 U+1F1E6",
+      "phone": "+966",
       "name": "Saudi Arabia",
       "emoji": "🇸🇦"
     },
     {
       "code": "SB",
-      "unicode": "U+1F1F8 U+1F1E7",
+      "phone": "+677",
       "name": "Solomon Islands",
       "emoji": "🇸🇧"
     },
@@ -1240,7 +1240,7 @@
     },
     {
       "code": "SJ",
-      "unicode": "U+1F1F8 U+1F1EF",
+      "phone": "+47",
       "name": "Svalbard & Jan Mayen",
       "emoji": "🇸🇯"
     },
@@ -1270,7 +1270,7 @@
     },
     {
       "code": "SO",
-      "unicode": "U+1F1F8 U+1F1F4",
+      "phone": "+252",
       "name": "Somalia",
       "emoji": "🇸🇴"
     },
@@ -1294,7 +1294,7 @@
     },
     {
       "code": "SV",
-      "unicode": "U+1F1F8 U+1F1FB",
+      "phone": "+503",
       "name": "El Salvador",
       "emoji": "🇸🇻"
     },
@@ -1354,31 +1354,31 @@
     },
     {
       "code": "TJ",
-      "unicode": "U+1F1F9 U+1F1EF",
+      "phone": "+992",
       "name": "Tajikistan",
       "emoji": "🇹🇯"
     },
     {
       "code": "TK",
-      "unicode": "U+1F1F9 U+1F1F0",
+      "phone": "+690",
       "name": "Tokelau",
       "emoji": "🇹🇰"
     },
     {
       "code": "TL",
-      "unicode": "U+1F1F9 U+1F1F1",
+      "phone": "+670",
       "name": "Timor-Leste",
       "emoji": "🇹🇱"
     },
     {
       "code": "TM",
-      "unicode": "U+1F1F9 U+1F1F2",
+      "phone": "+993",
       "name": "Turkmenistan",
       "emoji": "🇹🇲"
     },
     {
       "code": "TN",
-      "unicode": "U+1F1F9 U+1F1F3",
+      "phone": "+216",
       "name": "Tunisia",
       "emoji": "🇹🇳"
     },
@@ -1474,7 +1474,7 @@
     },
     {
       "code": "VE",
-      "unicode": "U+1F1FB U+1F1EA",
+      "phone": "+58",
       "name": "Venezuela",
       "emoji": "🇻🇪"
     },
@@ -1492,7 +1492,7 @@
     },
     {
       "code": "VN",
-      "unicode": "U+1F1FB U+1F1F3",
+      "phone": "+84",
       "name": "Vietnam",
       "emoji": "🇻🇳"
     },
@@ -1504,13 +1504,13 @@
     },
     {
       "code": "WF",
-      "unicode": "U+1F1FC U+1F1EB",
+      "phone": "+681",
       "name": "Wallis & Futuna",
       "emoji": "🇼🇫"
     },
     {
       "code": "WS",
-      "unicode": "U+1F1FC U+1F1F8",
+      "phone": "+685",
       "name": "Samoa",
       "emoji": "🇼🇸"
     },
@@ -1534,24 +1534,24 @@
     },
     {
       "code": "ZA",
-      "unicode": "U+1F1FF U+1F1E6",
+      "phone": "+27",
       "name": "South Africa",
       "emoji": "🇿🇦"
     },
     {
       "code": "ZM",
-      "unicode": "U+1F1FF U+1F1F2",
+      "phone": "+260",
       "name": "Zambia",
       "emoji": "🇿🇲"
     },
     {
       "code": "ZW",
-      "unicode": "U+1F1FF U+1F1FC",
+      "phone": "+263",
       "name": "Zimbabwe",
       "emoji": "🇿🇼"
     }
   ];
-  const codes = {"BD": "880", "BE": "32", "BF": "226", "BG": "359", "BA": "387", "BB": "+1-246", "WF": "681", "BL": "590", "BM": "+1-441", "BN": "673", "BO": "591", "BH": "973", "BI": "257", "BJ": "229", "BT": "975", "JM": "+1-876", "BV": "", "BW": "267", "WS": "685", "BQ": "599", "BR": "55", "BS": "+1-242", "JE": "+44-1534", "BY": "375", "BZ": "501", "RU": "7", "RW": "250", "RS": "381", "TL": "670", "RE": "262", "TM": "993", "TJ": "992", "RO": "40", "TK": "690", "GW": "245", "GU": "+1-671", "GT": "502", "GS": "", "GR": "30", "GQ": "240", "GP": "590", "JP": "81", "GY": "592", "GG": "+44-1481", "GF": "594", "GE": "995", "GD": "+1-473", "GB": "44", "GA": "241", "SV": "503", "GN": "224", "GM": "220", "GL": "299", "GI": "350", "GH": "233", "OM": "968", "TN": "216", "JO": "962", "HR": "385", "HT": "509", "HU": "36", "HK": "852", "HN": "504", "HM": " ", "VE": "58", "PR": "+1-787 and 1-939", "PS": "970", "PW": "680", "PT": "351", "SJ": "47", "PY": "595", "IQ": "964", "PA": "507", "PF": "689", "PG": "675", "PE": "51", "PK": "92", "PH": "63", "PN": "870", "PL": "48", "PM": "508", "ZM": "260", "EH": "212", "EE": "372", "EG": "20", "ZA": "27", "EC": "593", "IT": "39", "VN": "84", "SB": "677", "ET": "251", "SO": "252", "ZW": "263", "SA": "966", "ES": "34", "ER": "291", "ME": "382", "MD": "373", "MG": "261", "MF": "590", "MA": "212", "MC": "377", "UZ": "998", "MM": "95", "ML": "223", "MO": "853", "MN": "976", "MH": "692", "MK": "389", "MU": "230", "MT": "356", "MW": "265", "MV": "960", "MQ": "596", "MP": "+1-670", "MS": "+1-664", "MR": "222", "IM": "+44-1624", "UG": "256", "TZ": "255", "MY": "60", "MX": "52", "IL": "972", "FR": "33", "IO": "246", "SH": "290", "FI": "358", "FJ": "679", "FK": "500", "FM": "691", "FO": "298", "NI": "505", "NL": "31", "NO": "47", "NA": "264", "VU": "678", "NC": "687", "NE": "227", "NF": "672", "NG": "234", "NZ": "64", "NP": "977", "NR": "674", "NU": "683", "CK": "682", "XK": "", "CI": "225", "CH": "41", "CO": "57", "CN": "86", "CM": "237", "CL": "56", "CC": "61", "CA": "1", "CG": "242", "CF": "236", "CD": "243", "CZ": "420", "CY": "357", "CX": "61", "CR": "506", "CW": "599", "CV": "238", "CU": "53", "SZ": "268", "SY": "963", "SX": "599", "KG": "996", "KE": "254", "SS": "211", "SR": "597", "KI": "686", "KH": "855", "KN": "+1-869", "KM": "269", "ST": "239", "SK": "421", "KR": "82", "SI": "386", "KP": "850", "KW": "965", "SN": "221", "SM": "378", "SL": "232", "SC": "248", "KZ": "7", "KY": "+1-345", "SG": "65", "SE": "46", "SD": "249", "DO": "+1-809 and 1-829", "DM": "+1-767", "DJ": "253", "DK": "45", "VG": "+1-284", "DE": "49", "YE": "967", "DZ": "213", "US": "1", "UY": "598", "YT": "262", "UM": "1", "LB": "961", "LC": "+1-758", "LA": "856", "TV": "688", "TW": "886", "TT": "+1-868", "TR": "90", "LK": "94", "LI": "423", "LV": "371", "TO": "676", "LT": "370", "LU": "352", "LR": "231", "LS": "266", "TH": "66", "TF": "", "TG": "228", "TD": "235", "TC": "+1-649", "LY": "218", "VA": "379", "VC": "+1-784", "AE": "971", "AD": "376", "AG": "+1-268", "AF": "93", "AI": "+1-264", "VI": "+1-340", "IS": "354", "IR": "98", "AM": "374", "AL": "355", "AO": "244", "AQ": "", "AS": "+1-684", "AR": "54", "AU": "61", "AT": "43", "AW": "297", "IN": "91", "AX": "+358-18", "AZ": "994", "IE": "353", "ID": "62", "UA": "380", "QA": "974", "MZ": "258"};
+  const codes = {"UZ": "998", "MM": "95", "ML": "223", "MO": "853", "MN": "976", "MH": "692", "MK": "389", "MU": "230", "MT": "356", "MW": "265", "MV": "960", "MQ": "596", "MP": "+1-670", "MS": "+1-664", "MR": "222", "IM": "+44-1624", "UG": "256", "TZ": "255", "MY": "60", "MX": "52", "IL": "972", "FR": "33", "IO": "246", "SH": "290", "FI": "358", "FJ": "679", "FK": "500", "FM": "691", "FO": "298", "NI": "505", "NL": "31", "NO": "47", "NA": "264", "VU": "678", "NC": "687", "NE": "227", "NF": "672", "NG": "234", "NZ": "64", "NP": "977", "NR": "674", "NU": "683", "CK": "682", "XK": "", "CI": "225", "CH": "41", "CO": "57", "CN": "86", "CM": "237", "CL": "56", "CC": "61", "CA": "1", "CG": "242", "CF": "236", "CD": "243", "CZ": "420", "CY": "357", "CX": "61", "CR": "506", "CW": "599", "CV": "238", "CU": "53", "SZ": "268", "SY": "963", "SX": "599", "KG": "996", "KE": "254", "SS": "211", "SR": "597", "KI": "686", "KH": "855", "KN": "+1-869", "KM": "269", "ST": "239", "SK": "421", "KR": "82", "SI": "386", "KP": "850", "KW": "965", "SN": "221", "SM": "378", "SL": "232", "SC": "248", "KZ": "7", "KY": "+1-345", "SG": "65", "SE": "46", "SD": "249", "DO": "+1-809 and 1-829", "DM": "+1-767", "DJ": "253", "DK": "45", "VG": "+1-284", "DE": "49", "YE": "967", "DZ": "213", "US": "1", "UY": "598", "YT": "262", "UM": "1", "LB": "961", "LC": "+1-758", "LA": "856", "TV": "688", "TW": "886", "TT": "+1-868", "TR": "90", "LK": "94", "LI": "423", "LV": "371", "TO": "676", "LT": "370", "LU": "352", "LR": "231", "LS": "266", "TH": "66", "TF": "", "TG": "228", "TD": "235", "TC": "+1-649", "LY": "218", "VA": "379", "VC": "+1-784", "AE": "971", "AD": "376", "AG": "+1-268", "AF": "93", "AI": "+1-264", "VI": "+1-340", "IS": "354", "IR": "98", "AM": "374", "AL": "355", "AO": "244", "AQ": "", "AS": "+1-684", "AR": "54", "AU": "61", "AT": "43", "AW": "297", "IN": "91", "AX": "+358-18", "AZ": "994", "IE": "353", "ID": "62", "UA": "380", "QA": "974", "MZ": "258"};
 
   window.countries = {
     names: names,
