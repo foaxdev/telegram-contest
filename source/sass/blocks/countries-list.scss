@@ -1,0 +1,24 @@
+.countries-list {
+  @include list-reset();
+  position: absolute;
+  top: 55px;
+  left: 0;
+
+  display: none;
+  flex-direction: column;
+  max-height: 330px;
+
+  background-color: $white;
+  border-radius: 7px;
+  border: 1px solid $grey;
+
+  overflow-y: scroll;
+
+  &--show {
+    display: flex;
+  }
+}
+
+.countries-list__item {
+  display: flex;
+}

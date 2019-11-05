@@ -41,9 +41,25 @@
     width: 24px;
     height: 24px;
 
-    background-image: url("../img/down.svg");
+    background-image: url("../img/down_svg.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 24px;
+
+    cursor: pointer;
   }
+
+  &--opened::after {
+    background-image: url("../img/up_svg.svg");
+  }
+}
+
+.log-in-form__checkbox {
+  display: flex;
+
+  padding: 10px 0 0 50px;
+}
+
+.log-in-form__label {
+  font-size: 16px;
 }
